@@ -1,5 +1,6 @@
 ﻿using System;
 
+// Um comentário qualquer...
 namespace exemplo_02
 {
     class Program
